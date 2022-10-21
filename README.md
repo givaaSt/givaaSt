@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @givaaSt
 - 👀 I’m interested in Coding, Hacking, Math 👨‍💻
 - 🌱 I’m currently learning Data Structure, Web App development, CTF, CS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Learning, Researching 📙
 - 📫 How to reach me IG : givaa_delger, Discordd : ikuSt##5047
 
 <!---
